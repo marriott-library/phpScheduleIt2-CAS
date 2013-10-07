@@ -9,7 +9,7 @@ The steps below outline the current installation method for this plugin.
 First we will need to change our working directory to our phpScheduleIt2 plugins
 folder which handles Authentication.
 
-```
+```sh
 shell> cd /path/to/phpscheduleit/plugins/Authentication/
 ```
 
@@ -18,7 +18,7 @@ Now you will need to get this plugin, the easiest method is to clone
 it recursively. This will ensure the latest commit for the phpCAS software
 gets installed too.
 
-```
+```sh
 shell> git clone --recursively https://github.com/jas-/phpScheduleIt2.git
 ```
 
